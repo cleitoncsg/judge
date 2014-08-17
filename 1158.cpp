@@ -28,7 +28,7 @@ int main(){
 		quantidade++;
 	}
 
-	for (int i = 0; i < quantidade; ++i)
+	for (int i = 0; i < quantidade; i++)
 	{
 		printf("%d\n",vetor[i] );
 	}
